@@ -1,0 +1,62 @@
+<movies>
+    <movie>
+        <id>1</id>
+        <duration>2 год</duration>
+        <genre>Бойовик</genre>
+        <title>Месники: Завершення</title>
+    </movie>
+    <movie>
+        <id>2</id>
+        <duration>1 год 30 хв</duration>
+        <genre>Комедія</genre>
+        <title>Шантаж</title>
+    </movie>
+    <movie>
+        <id>3</id>
+        <duration>2 годиною 15 хв</duration>
+        <genre>Драма</genre>
+        <title>Зелена книга</title>
+    </movie>
+    <movie>
+        <id>4</id>
+        <duration>1 год 45 хв</duration>
+        <genre>Бойовик</genre>
+        <title>Форсаж 9</title>
+    </movie>
+    <movie>
+        <id>5</id>
+        <duration>1 год 50 хв</duration>
+        <genre>Жахи</genre>
+        <title>Відповідальність</title>
+    </movie>
+    <movie>
+        <id>6</id>
+        <duration>2 год</duration>
+        <genre>Фантастика</genre>
+        <title>Доктор Стрендж в мультивсесвіті безумства</title>
+    </movie>
+    <movie>
+        <id>7</id>
+        <duration>1 год 40 хв</duration>
+        <genre>Комедія</genre>
+        <title>Парк Юрського періоду</title>
+    </movie>
+    <movie>
+        <id>8</id>
+        <duration>2 год 5 хв</duration>
+        <genre>Екшн</genre>
+        <title>Пірати Карибського моря: Прокляття Чорної перлини</title>
+    </movie>
+    <movie>
+        <id>9</id>
+        <duration>1 год 55 хв</duration>
+        <genre>Драма</genre>
+        <title>Зелена миля</title>
+    </movie>
+    <movie>
+        <id>10</id>
+        <duration>2 год 20 хв</duration>
+        <genre>Фантастика</genre>
+        <title>Інтерстеллар</title>
+    </movie>
+</movies>

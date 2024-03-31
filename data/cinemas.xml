@@ -1,0 +1,99 @@
+<cinemas>
+    <cinema>
+        <id>1</id>
+        <name>Планета кіно</name>
+        <location>Київ, вул. Велика Васильківська, 19</location>
+        <movies_playing>
+            <movie_id>1</movie_id>
+            <movie_id>2</movie_id>
+            <movie_id>3</movie_id>
+        </movies_playing>
+    </cinema>
+    <cinema>
+        <id>2</id>
+        <name>Multiplex</name>
+        <location>Львів, вул. Шевченка, 20</location>
+        <movies_playing>
+            <movie_id>2</movie_id>
+            <movie_id>4</movie_id>
+            <movie_id>5</movie_id>
+        </movies_playing>
+    </cinema>
+    <cinema>
+        <id>3</id>
+        <name>Кінопалац</name>
+        <location>Одеса, вул. Дерибасівська, 1</location>
+        <movies_playing>
+            <movie_id>1</movie_id>
+            <movie_id>3</movie_id>
+            <movie_id>5</movie_id>
+        </movies_playing>
+    </cinema>
+    <cinema>
+        <id>4</id>
+        <name>Сінема Сіті</name>
+        <location>Харків, вул. Сумська, 12</location>
+        <movies_playing>
+            <movie_id>2</movie_id>
+            <movie_id>4</movie_id>
+        </movies_playing>
+    </cinema>
+    <cinema>
+        <id>5</id>
+        <name>Кіносфера</name>
+        <location>Дніпро, вул. Набережна Перемоги, 33</location>
+        <movies_playing>
+            <movie_id>1</movie_id>
+            <movie_id>3</movie_id>
+            <movie_id>4</movie_id>
+        </movies_playing>
+    </cinema>
+    <cinema>
+        <id>6</id>
+        <name>Кінотеатр Люксор</name>
+        <location>Запоріжжя, вул. Леніна, 55</location>
+        <movies_playing>
+            <movie_id>1</movie_id>
+            <movie_id>2</movie_id>
+            <movie_id>5</movie_id>
+        </movies_playing>
+    </cinema>
+    <cinema>
+        <id>7</id>
+        <name>Імакс</name>
+        <location>Вінниця, вул. Соборна, 10</location>
+        <movies_playing>
+            <movie_id>3</movie_id>
+            <movie_id>4</movie_id>
+        </movies_playing>
+    </cinema>
+    <cinema>
+        <id>8</id>
+        <name>Альтаїр</name>
+        <location>Івано-Франківськ, вул. Грушевського, 2</location>
+        <movies_playing>
+            <movie_id>1</movie_id>
+            <movie_id>2</movie_id>
+            <movie_id>4</movie_id>
+        </movies_playing>
+    </cinema>
+    <cinema>
+        <id>9</id>
+        <name>Кіноплекс</name>
+        <location>Тернопіль, вул. Руська, 15</location>
+        <movies_playing>
+            <movie_id>3</movie_id>
+            <movie_id>5</movie_id>
+        </movies_playing>
+    </cinema>
+    <cinema>
+        <id>10</id>
+        <name>Сіті Молл Кіно</name>
+        <location>Запоріжжя, просп. Соборний, 89</location>
+        <movies_playing>
+            <movie_id>2</movie_id>
+            <movie_id>3</movie_id>
+            <movie_id>4</movie_id>
+        </movies_playing>
+    </cinema>
+</cinemas>

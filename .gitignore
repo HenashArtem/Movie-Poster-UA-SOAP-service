@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.pytest_cache
+
+venv/
+env/
+ENV/
+
+requirements.txt
+pip-log.txt
+
+*.swp
+*~
+.DS_Store
+*.idea

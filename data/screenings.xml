@@ -1,0 +1,62 @@
+<screenings>
+  <screening>
+    <id>1</id>
+    <movie_id>1</movie_id>
+    <cinema_id>1</cinema_id>
+    <time>2024-04-01 18:00</time>
+  </screening>
+  <screening>
+    <id>2</id>
+    <movie_id>2</movie_id>
+    <cinema_id>1</cinema_id>
+    <time>2024-04-01 20:30</time>
+  </screening>
+  <screening>
+    <id>3</id>
+    <movie_id>3</movie_id>
+    <cinema_id>2</cinema_id>
+    <time>2024-04-02 15:00</time>
+  </screening>
+  <screening>
+    <id>4</id>
+    <movie_id>4</movie_id>
+    <cinema_id>3</cinema_id>
+    <time>2024-04-03 17:45</time>
+  </screening>
+  <screening>
+    <id>5</id>
+    <movie_id>5</movie_id>
+    <cinema_id>4</cinema_id>
+    <time>2024-04-04 19:20</time>
+  </screening>
+  <screening>
+    <id>6</id>
+    <movie_id>1</movie_id>
+    <cinema_id>5</cinema_id>
+    <time>2024-04-05 14:10</time>
+  </screening>
+  <screening>
+    <id>7</id>
+    <movie_id>2</movie_id>
+    <cinema_id>6</cinema_id>
+    <time>2024-04-06 16:30</time>
+  </screening>
+  <screening>
+    <id>8</id>
+    <movie_id>3</movie_id>
+    <cinema_id>7</cinema_id>
+    <time>2024-04-07 21:00</time>
+  </screening>
+  <screening>
+    <id>9</id>
+    <movie_id>4</movie_id>
+    <cinema_id>8</cinema_id>
+    <time>2024-04-08 13:45</time>
+  </screening>
+  <screening>
+    <id>10</id>
+    <movie_id>5</movie_id>
+    <cinema_id>9</cinema_id>
+    <time>2024-04-09 18:45</time>
+  </screening>
+</screenings>
